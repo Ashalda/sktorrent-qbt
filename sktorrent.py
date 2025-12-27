@@ -1,6 +1,6 @@
 #MADE BY ASHALDA
 #https://github.com/Ashalda
-# VERSION: 1.0
+# VERSION: 1.1
 
 import re
 from helpers import retrieve_url
@@ -53,3 +53,4 @@ class sktorrent():
                 prettyPrinter(dict)
 
             turn += 1
+
