@@ -1,3 +1,7 @@
+#MADE BY ASHALDA
+#https://github.com/Ashalda
+# VERSION: 1.0
+
 import re
 from helpers import retrieve_url
 from novaprinter import prettyPrinter
