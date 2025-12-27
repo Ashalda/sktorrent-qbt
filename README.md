@@ -6,7 +6,7 @@ A multipage qBittorrent plugin that can search form sktorrent.eu
 
 ## Installation
 
-Install by downloading sktorrent.py and adding it to your qBittorent search plugins or by pasting this address into your qBittorrent client
+Install by downloading sktorrent.py and adding it to your qBittorent search plugins or by pasting this address into your qBittorrent client:
 
 ```bash
   https://raw.githubusercontent.com/Ashalda/sktorrent-qbt/refs/heads/main/sktorrent.py
